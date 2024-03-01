@@ -5,7 +5,7 @@ with open("README.md", "rb") as fh:
 
 setuptools.setup(
     name='chatgpt-bot-utils',
-    version='0.1.0',
+    version='0.4.0-alpha.4',
     url='https://github.com/duliyouxijuzi/chatgpt-bot-utils',
     license='MIT',
     author='duliyouxijuzi',
@@ -15,7 +15,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Development Status :: 1.0",
+        "Development Status :: 3 - Alpha",
         "Environment :: Console",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
